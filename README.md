@@ -37,8 +37,3 @@ After installing VScode and Python, download the extension in VSCode as follow:
 
 Done it and Run code
 
-### Build exe
-Using terminal and pyinstaller to build exe
-```
-$ pyinstaller -F --noconsole GUI.py 
-```
