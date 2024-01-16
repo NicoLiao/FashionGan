@@ -10,7 +10,7 @@
 
 >This is a software to classify anime characters. User can upload a picture of an anime character and the software will predict which character it is.
 
-All data comes from https://www.kaggle.com/datasets/mylesoneill/tagged-anime-illustrations
+All data comes from [https://www.kaggle.com/datasets/mylesoneill/tagged-anime-illustrations](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small?resource=download)
 
 # Install
 ## Release 
