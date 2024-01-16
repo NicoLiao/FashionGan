@@ -13,9 +13,6 @@
 All data comes from https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small?resource=download
 
 # Install
-## Release 
-Download exe as follow: https://github.com/NicoLiao/Anime-character-predictor/releases/
-
 
 ## Download source code
 In order to use Anime character predictor, make sure that you have python 3.10.12 and python packages as below:
